@@ -90,4 +90,3 @@ jobs:
           push: true
           tags: |
             s3proxy:latest
-            #$IMAGE_ID:$VERSION
